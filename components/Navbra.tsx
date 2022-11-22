@@ -80,7 +80,7 @@ const Navbar = () => {
             </li>
             <li onClick={() => setMenuToggle(true)}>
               <AnchorLink offset={() => 140} href="#Contact">
-                <p className="block py-2 pl-3 pr-4 text-gray-300 rounded hover:text-white md:hover:bg-transparent  md:p-0 ">
+                <p className="block py-2 pl-3 pr-4 text-black rounded md:hover:bg-transparent  md:p-0 ">
                   Contact
                 </p>
               </AnchorLink>
