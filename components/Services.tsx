@@ -10,7 +10,7 @@ const Services = () => {
         }
       >
         <div className="container mx-auto text-white font-press-start flex  h-full  place-content-center flex-col content-center text-left gap-2">
-          <h2 className="container mx-auto font-press-start flex  h-full  place-content-center flex-col content-center text-left gap-2 text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+          <h2 className="container mx-auto font-press-start flex text-center h-full  place-content-center flex-col content-center text-left gap-2 text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
             Our services :
           </h2>
         </div>
@@ -26,10 +26,12 @@ const Services = () => {
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
             <li className="flex flex-col gap-1">
               <span className=" text-sm mb-2 sm:text-base font-normal text-gray-500 dark:text-gray-400">
-            Planning your project in web3?
-          </span>
+                Planning your project in web3?
+              </span>
               <span className="text-sm sm:text-base font-normal leading-tight text-gray-200 dark:text-gray-400">
-               Ready to use, fully customizable, gas efficient erc721 & erc1155 smart contracts (NFT&apos;s) plus client side web application (frontend), for you business
+                Ready to use, fully customizable, gas efficient erc721 & erc1155
+                smart contracts (NFT&apos;s) plus client side web application
+                (frontend), for you business
               </span>
             </li>
           </ul>
@@ -43,10 +45,13 @@ const Services = () => {
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
             <li className="flex flex-col gap-1">
               <span className=" text-sm mb-2 sm:text-base font-normal text-gray-500 dark:text-gray-400">
-            Are you a manufacturer or wholesaler?
-          </span>
+                Are you a manufacturer or wholesaler?
+              </span>
               <span className="text-sm sm:text-base font-normal leading-tight text-gray-200 dark:text-gray-400">
-               Custom solutions allowing you to track product supply chain in seconds, consumer behaviours & transactions. You can take a bottle of wine and see where it was manufactured and trace back all the ingredients to the vineyards
+                Custom solutions allowing you to track product supply chain in
+                seconds, consumer behaviours & transactions. You can take a
+                bottle of wine and see where it was manufactured and trace back
+                all the ingredients to the vineyards
               </span>
             </li>
           </ul>
