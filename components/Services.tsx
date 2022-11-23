@@ -39,7 +39,7 @@ const Services = () => {
         <div className="w-full transition ease-in-out duration-300 hover:scale-100 sm:hover:scale-110 max-w-sm p-4 bg-black text-white border rounded-lg shadow-md sm:p-8 dark:bg-gray-800 dark:border-gray-700">
           <div className="flex items-baseline text-gray-50 dark:text-white place-content-center">
             <span className="text-lg mt-2 sm:mt-0 sm:text-3xl text-center  font-extrabold tracking-tight">
-              Traceability
+              Product Traceability
             </span>
           </div>
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
