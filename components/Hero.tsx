@@ -13,9 +13,7 @@ const Hero = () => {
           Blockchain Software House
         </h1>
         <div className={"text-sm sm:text-base"}>
-          <p>For pioneers</p>
-          <p>For producers</p>
-          <p>For dotcom companies entering &quot;new internet&quot;</p>
+          <p>Blockchain-powered technology</p>
         </div>
       </div>
     </div>
