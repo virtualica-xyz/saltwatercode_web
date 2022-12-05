@@ -16,9 +16,6 @@ const Hero = () => {
           <p>For pioneers</p>
           <p>For producers</p>
           <p>For dotcom companies entering &quot;new internet&quot;</p>
-          <p className={"font-press-start text-gray-500 mt-8"}>
-            #DIGITALASSETS #BLOCKCHAIN #ONCHAINDATA
-          </p>
         </div>
       </div>
     </div>
