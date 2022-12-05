@@ -10,7 +10,7 @@ const Hero = () => {
     >
       <div className="container mx-auto text-white font-press-start flex  h-full  place-content-center flex-col content-center text-left gap-2">
         <h1 className="text-white text-lg sm:text-4xl font-press-start text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-          Blockchain Software House
+          Supply Chain Management
         </h1>
         <div className={"text-sm sm:text-base"}>
           <p>Blockchain-powered technology</p>
