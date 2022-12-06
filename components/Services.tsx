@@ -11,7 +11,7 @@ const Services = () => {
       >
         <div className="container mx-auto text-white font-nunito flex  h-full  place-content-center flex-col content-center text-left gap-2">
           <h2 className="container mx-auto font-nunito flex text-center h-full  place-content-center flex-col content-center text-left gap-2 text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-            Our services :
+            Our services
           </h2>
         </div>
       </div>
