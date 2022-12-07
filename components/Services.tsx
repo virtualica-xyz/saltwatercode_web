@@ -16,7 +16,7 @@ const Services = () => {
         </div>
       </div>
 
-      <div className="container px-4 sm:px-0 mx-auto text-white font-nunito flex  place-content-center gap-8 sm:gap-20 flex-wrap">
+      <div className="container px-5 sm:px-0 mx-auto text-white font-nunito flex  place-content-center gap-8 sm:gap-20 flex-wrap">
         <div className="w-full transition ease-in-out duration-300 hover:scale-100 sm:hover:scale-110 max-w-sm p-4 bg-black text-white border rounded-lg shadow-md sm:p-8 dark:bg-gray-800 dark:border-gray-700">
           <div className="flex items-baseline place-content-center text-center text-gray-50 dark:text-white">
             <span className="text-lg mt-2 sm:mt-0 sm:text-3xl text-center  font-extrabold tracking-tight">
