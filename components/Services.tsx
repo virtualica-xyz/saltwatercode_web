@@ -20,15 +20,13 @@ const Services = () => {
         <div className="w-full transition ease-in-out duration-300 hover:scale-100 sm:hover:scale-110 max-w-sm p-4 bg-black text-white border rounded-lg shadow-md sm:p-8 dark:bg-gray-800 dark:border-gray-700">
           <div className="flex items-baseline place-content-center text-center text-gray-50 dark:text-white">
             <span className="text-lg mt-2 sm:mt-0 sm:text-3xl text-center  font-extrabold tracking-tight">
-              Digital Assets
+              Education & Strategy
             </span>
           </div>
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
             <li className="flex flex-col gap-1">
               <span className="text-sm sm:text-base font-normal leading-tight text-gray-200 dark:text-gray-400">
-                Ready to use, fully customizable, gas efficient erc721 & erc1155
-                smart contracts (NFT&apos;s) plus client side web application
-                (frontend), for you business
+                We are here to help you create new forms of consumer engagement, experience and insights, understand the possibilities that blockchain presents and how to effectively leverage them.
               </span>
             </li>
           </ul>
@@ -36,16 +34,13 @@ const Services = () => {
         <div className="w-full transition ease-in-out duration-300 hover:scale-100 sm:hover:scale-110 max-w-sm p-4 bg-black text-white border rounded-lg shadow-md sm:p-8 dark:bg-gray-800 dark:border-gray-700">
           <div className="flex items-baseline text-gray-50 dark:text-white place-content-center">
             <span className="text-lg mt-2 sm:mt-0 sm:text-3xl text-center  font-extrabold tracking-tight">
-              Product Traceability
+              Software Development
             </span>
           </div>
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
             <li className="flex flex-col gap-1">
               <span className="text-sm sm:text-base font-normal leading-tight text-gray-200 dark:text-gray-400">
-                Custom solutions allowing you to track product supply chain in
-                seconds, consumer behaviours & transactions. You can take a
-                bottle of wine and see where it was manufactured and trace back
-                all the ingredients to the vineyards
+                Our team is dedicated to providing the best solutions and services to our clients and helping them succeed in the blockchain space.
               </span>
             </li>
           </ul>
