@@ -41,9 +41,6 @@ const Services = () => {
           </div>
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
             <li className="flex flex-col gap-1">
-              <span className=" text-sm mb-2 sm:text-base font-normal text-gray-500 dark:text-gray-400">
-                Are you a manufacturer?
-              </span>
               <span className="text-sm sm:text-base font-normal leading-tight text-gray-200 dark:text-gray-400">
                 Custom solutions allowing you to track product supply chain in
                 seconds, consumer behaviours & transactions. You can take a
