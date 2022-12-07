@@ -9,7 +9,7 @@ const Hero = () => {
       }
     >
       <div className="container mx-auto text-white font-press-start flex  h-full  place-content-center flex-col content-center text-left gap-2">
-        <h1 className="text-white text-lg sm:text-4xl font-press-start text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+        <h1 className="text-white text-lg sm:text-3xl font-press-start text-transparent  bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
           A Web2.5 consultancy & software
         </h1>
         <div className={"text-sm sm:text-base"}>
