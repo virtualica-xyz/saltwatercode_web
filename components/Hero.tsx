@@ -13,7 +13,7 @@ const Hero = () => {
           A Web2.5 consultancy & software
         </h1>
         <div className={"text-sm sm:text-base"}>
-          <p>blockchain-powered technology</p>
+          <p>blockchain-powered</p>
           <p>human experience</p>
         </div>
       </div>
