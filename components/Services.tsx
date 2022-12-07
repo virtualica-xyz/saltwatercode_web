@@ -25,9 +25,6 @@ const Services = () => {
           </div>
           <ul role="list" className="space-y-5 mt-4 sm:my-7 ">
             <li className="flex flex-col gap-1">
-              <span className=" text-sm mb-2 sm:text-base font-normal text-gray-500 dark:text-gray-400">
-                Planning your project in web3?
-              </span>
               <span className="text-sm sm:text-base font-normal leading-tight text-gray-200 dark:text-gray-400">
                 Ready to use, fully customizable, gas efficient erc721 & erc1155
                 smart contracts (NFT&apos;s) plus client side web application
