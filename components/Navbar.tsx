@@ -8,11 +8,11 @@ const Navbar = () => {
   return (
     <nav className="bg-black px-2 sm:px-4 py-2.5 dark:bg-gray-900 fixed w-full z-20 top-0 left-0  border-gray-200 ">
       <div className="container flex flex-wrap items-center justify-between mx-auto">
-        <AnchorLink offset={() => 140} href="#Home">
+        <Link href={"/#Home"}>
           <span className="self-center font-press-start text-white text-m font-semibold whitespace-nowrap dark:text-white">
             saltwatercode
           </span>
-        </AnchorLink>
+        </Link>
         <div className="flex h-max place-content-center place-items-center md:order-2 gap-0 sm:gap-4 ">
           <Link href="https://twitter.com/saltwatercode" target="_blank">
             <img
