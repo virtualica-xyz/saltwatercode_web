@@ -65,25 +65,25 @@ const Navbar = () => {
         >
           <ul className="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-black md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0  ">
             <li onClick={() => setMenuToggle(true)}>
-              <AnchorLink offset={() => 140} href="#Home">
+              <Link href={"/#Home"}>
                 <p className="block py-2 pl-3 pr-4 text-gray-300 rounded hover:text-white md:hover:bg-transparent  md:p-0 ">
                   Home
                 </p>
-              </AnchorLink>
+              </Link>
             </li>
             <li onClick={() => setMenuToggle(true)}>
-              <AnchorLink offset={() => 140} href="#Services">
+              <Link href={"/#Services"}>
                 <p className="block py-2 pl-3 pr-4 text-gray-300 rounded hover:text-white md:hover:bg-transparent  md:p-0 ">
                   Services
                 </p>
-              </AnchorLink>
+              </Link>
             </li>
             <li onClick={() => setMenuToggle(true)}>
-              <AnchorLink offset={() => 140} href="#Contact">
-                <p className="block py-2 pl-3 pr-4 text-black rounded md:hover:bg-transparent  md:p-0 ">
+              <Link href={"/Contact"}>
+                <p className="block py-2 pl-3 pr-4 text-gray-300 rounded hover:text-white md:hover:bg-transparent  md:p-0 ">
                   Contact
                 </p>
-              </AnchorLink>
+              </Link>
             </li>
           </ul>
         </div>
