@@ -11,6 +11,7 @@
   "dependencies": {
     "@asyncapi/web-component": "^0.24.23",
     "@twistezo/react-text-scramble": "^1.0.6",
+    "@typeform/embed-react": "^2.7.0",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
