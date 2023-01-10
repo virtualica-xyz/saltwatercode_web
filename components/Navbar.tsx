@@ -14,13 +14,6 @@ const Navbar = () => {
           </span>
         </Link>
         <div className="flex h-max place-content-center place-items-center md:order-2 gap-0 sm:gap-4 ">
-          <Link href="https://twitter.com/saltwatercode" target="_blank">
-            <img
-              src="./mdi_twitter.svg"
-              className="h-6 opacity-75 hover:opacity-100 mr-2 sm:mr-0"
-              alt="Flowbite Logo"
-            />
-          </Link>
 
           <Link
             href="https://www.linkedin.com/company/87407792"
